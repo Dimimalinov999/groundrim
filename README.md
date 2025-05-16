@@ -4,7 +4,7 @@ Rewrite of grundrim-legacy in C++, with more features!
 I'm currently in the process of building the game, i don't want the WIP code. maybe i'll upload some.
 <br>
 <br>
-looking at development, there will be a **LOT** of if statements. Codebase won't work with a switches!
+looking at development, there will be a **LOT** of if statements. Codebase won't work with switches!
 ## SNEAK PEAK!!
 (gifs didn't render properly in kdenlive.)
 
