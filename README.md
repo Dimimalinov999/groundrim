@@ -5,5 +5,9 @@ I'm currently in the process of building the game, i don't want the WIP code. ma
 ## SNEAK PEAK!!
 (gifs didn't render properly in kdenlive.)
 <br>
-https://github.com/user-attachments/assets/b14bd9aa-8076-4467-8ef0-99db19d88552
+<video width="320" height="240" controls>
+  <source src="https://github.com/user-attachments/assets/b14bd9aa-8076-4467-8ef0-99db19d88552" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
