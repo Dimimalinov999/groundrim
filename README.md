@@ -1,5 +1,14 @@
 # groundrim
 Rewrite of grundrim-legacy in C++, with more features!
+## Compiling and installing
+to compile based on device architecture, run
+```
+make
+```
+and to install to /usr/local/bin
+```
+make install
+```
 ## Development
 I'm currently in the process of building the game, i don't want the WIP code. maybe i'll upload some.
 <br>
