@@ -13,7 +13,7 @@ clean:
 	rm -f groundrim
 
 install:
-	echo "Installing is not supported"
+	cp groundrim /usr/local/bin/groundrim
 
 # Builder uses this target to run your application.
 run:
