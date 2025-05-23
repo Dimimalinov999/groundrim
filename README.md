@@ -9,6 +9,8 @@ and to install to /usr/local/bin
 ```
 make install
 ```
+### Pre-compiled binaries
+For easier install, you can go to the [Releases](https://github.com/Dimimalinov999/groundrim/releases)
 ## Development
 I'm currently in the process of building the game, i don't want the WIP code. maybe i'll upload some.
 <br>
