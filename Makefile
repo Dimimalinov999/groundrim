@@ -6,7 +6,7 @@ DEBUG = -ggdb -fno-omit-frame-pointer
 OPTIMIZE = -O2
 STANDARD = -std=c++2a
 
-taxy: Makefile main.cpp
+groundrim: Makefile main.cpp
 	$(CXX) -o $@ $(WARNINGS) $(DEBUG) $(OPTIMIZE) $(STANDARD) main.cpp
 
 clean:
