@@ -50,7 +50,7 @@ int main() {
             progress += "You arrived to Earth. ";
         }
         else if ((command.find("look") != std::string::npos) && (command.find("around") != std::string::npos) && (progress.compare("You decided to flee to another planet. You arrived to Earth. ") == 0)) {
-            std::cout << "Looking arround... You see a bunch of wierd looking creatures, you've never seen such before!"
+            std::cout << "Looking arround... You see a bunch of wierd looking creatures, you've never seen such before!";
         }
         else { // if no valid commands are inputed.
             std::cout << "Pardon me? (You have " << lives << " lives left!)" << std::endl;
